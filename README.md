@@ -1,1 +1,1 @@
- yum install wget -y && wget https://github.com/phpcarry32/openvpn/raw/main/centos7 && chmod +rx centos7 && ./centos7
+ yum install wget -y && wget https://raw.githubusercontent.com/phpcarry32/vpn/main/centos7 && chmod +rx centos7 && ./centos7
